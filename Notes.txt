@@ -1,4 +1,5 @@
 -----Helpful Notes-----
+URL: http://jordanbialock.github.io/keyjord/
 Git commands
 	Save Files/Update Website:
 		-open terminal in the location of the files
