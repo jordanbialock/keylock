@@ -3,7 +3,10 @@ URL: http://jordanbialock.github.io/keyjord/
 Git commands
 	Save Files/Update Website:
 		-open terminal in the location of the files
+			- “cd Desktop”
+			- “cd keylock” OR “cd Desktop/keylock”
 		- 'git add *'
+		- git status 
 		- 'git commit -m "put a message here that will be submitted with your changes"'
 		- 'git push'
 	Download Changes From Others
