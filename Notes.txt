@@ -1,0 +1,12 @@
+-----Helpful Notes-----
+Git commands
+	Save Files/Update Website:
+		-open terminal in the location of the files
+		- 'git add *'
+		- 'git commit -m "put a message here that will be submitted with your changes"'
+		- 'git push'
+	Download Changes From Others
+		-open terminal in the location that you would like to update
+		- 'git pull' 
+
+		
